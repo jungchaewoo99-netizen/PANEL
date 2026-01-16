@@ -108,3 +108,15 @@ a {
   font-size: 14px;
 }
 
+.shop-section {
+  padding: 60px 40px;
+}
+
+.category-grid a {
+  cursor: pointer;
+}
+
+/* 부드러운 스크롤 */
+html {
+  scroll-behavior: smooth;
+}
