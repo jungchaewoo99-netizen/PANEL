@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jungchaewoo99-netizen/PANEL#readme",
   "dependencies": {
-    "chokidar": "^5.0.0"
+    "chokidar": "^5.0.0",
+    "open": "^11.0.0"
   }
 }
